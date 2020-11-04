@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav.navbar{
+    background-color: rgb(0,56,82);
+}
+span.brand{
+    font-size: 30px;
+    font-weight: 400;
+}
+div.home{
+    background-color: rgb(0, 59, 88);
+    min-height: 100vh;
+}
+.pt-10{
+    /* padding:50px 0px 0px 0px ; */
+    padding-top: 150px;
+}
+h2.h2{
+   letter-spacing: 2px; 
+   font-size: 45px;
+}
+h4.h4{
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+div.about{
+    background-color: aliceblue;
+    height: 100vh;
+}
+div.container>p{
+    color: rgb(0,59,88);
+}
